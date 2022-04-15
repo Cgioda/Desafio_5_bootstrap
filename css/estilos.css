@@ -1,0 +1,19 @@
+.alineado_texto {
+  text-align: center;
+}
+
+
+a:hover{
+  font-size: 20px;
+}
+
+.color_de_descripcion{
+  color: white;
+  font-weight: bolder;
+    text-shadow: 2px 2px 2px black;
+}
+
+.color_de_descripcion_texto{  color: white;
+  font-weight: bold;
+    text-shadow: 2px 2px 2px black;  
+}
